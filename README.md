@@ -1,11 +1,11 @@
 # Sistema de Cotações de Moedas (Câmbio) - TCP Cliente-Servidor
 
-Sistema distribuído cliente-servidor usando Sockets TCP para provedor de cotações de moedas com suporte a múltiplas requisições concorrentes.
+Sistema distribuído cliente-servidor usando Sockets TCP para provedor de cotações de moedas com suporte a múltiplas requisições  simultâneas.
 
 ## 📋 Requisitos
 
 - Python 3.7 ou superior
-- Nenhuma biblioteca externa necessária (usa apenas bibliotecas padrão)
+- Nenhuma biblioteca externa necessária (apenas bibliotecas padrão)
 
 ## 🚀 Como Executar
 
@@ -241,4 +241,4 @@ O sistema trata diversos cenários:
 
 ---
 
-**Desenvolvido como projeto de Sistemas Distribuídos**
+**Desenvolvido como projeto de Introdução aos Sistemas Distribuídos e Redes de Computadores**
